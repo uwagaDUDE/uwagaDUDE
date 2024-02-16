@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Igor and i am a Junior Python backend-developer/Data-analyst.<br><br> Most of my projects has been on local gitlab service.<br>
+Hello! My name is Igor and i am a Python backend-developer/Data-analyst.<br><br> Most of my projects has been on local gitlab service.<br>
 Currently I work at the medical information and analytical center of the Arkhangelsk region.
 
 
